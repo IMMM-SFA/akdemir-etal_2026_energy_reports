@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17981300.svg)](https://doi.org/10.5281/zenodo.17981300)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18461111.svg)](https://doi.org/10.5281/zenodo.18461111)
 
 # akdemir-etal_2026_energy_reports
 
@@ -17,7 +17,7 @@ Recent advancements in artificial intelligence have created an unprecedented dem
 To be updated with appropriate reference information once the paper is published.
 
 ## Code reference
-Akdemir, K. Z., Burleyson, C. D., Mongird, K., Oikonomou, K., Thurber, T. B., Vernon, C. R., & Rice, J. S. (2025). Meta-repository for data and code associated with the Akdemir et al. 2026 submission to Energy Reports (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.17981300
+Akdemir, K. Z., Burleyson, C. D., Mongird, K., Oikonomou, K., Thurber, T. B., Vernon, C. R., & Rice, J. S. (2026). Meta-repository for data and code associated with the Akdemir et al. 2026 submission to Energy Reports (Version v1.1.0) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.18461111
 
 ## Data reference
 
